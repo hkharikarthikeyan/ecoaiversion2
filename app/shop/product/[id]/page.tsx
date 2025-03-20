@@ -34,8 +34,6 @@ export default function ProductPage() {
     reviews: 32,
     images: [
       "/images/download-1.jpeg",
-      "/placeholder.svg?height=400&width=400",
-      "/placeholder.svg?height=400&width=400",
     ],
     features: [
       "Made from 100% post-consumer recycled paper",
