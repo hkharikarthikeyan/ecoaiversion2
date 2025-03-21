@@ -15,9 +15,9 @@ const ChatMessage: React.FC<ChatMessageProps> = ({ message }) => {
         isUser ? 'bg-blue-500' : 'bg-green-500'
       }`}>
         {isUser ? (
-          <MessageSquare className="w-5 h-5 text-white" />
+          <MessageSquare className="w-5 h-5 text-black" />
         ) : (
-          <Bot className="w-5 h-5 text-white" />
+          <Bot className="w-5 h-5 text-black" />
         )}
       </div>
       <div className={`flex-1 px-4 py-2 rounded-lg ${

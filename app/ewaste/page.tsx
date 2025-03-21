@@ -95,7 +95,7 @@ export default function EWastePage() {
               </p>
             </div>
             <Image
-              src="/placeholder.svg?height=400&width=400"
+              src="/images/img2.png"
               alt="E-waste illustration"
               width={400}
               height={400}
@@ -368,7 +368,7 @@ export default function EWastePage() {
               </p>
             </div>
             <Image
-              src="/placeholder.svg?height=400&width=400"
+              src="/images/imp3.png"
               alt="Rewards illustration"
               width={400}
               height={400}

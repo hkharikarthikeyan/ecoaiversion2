@@ -224,7 +224,7 @@ export default function Home() {
               className="slide-in-right"
             >
               <Image
-                src="/placeholder.svg?height=550&width=550"
+                src="/images/imp.jpg"
                 alt="Environmental impact illustration"
                 width={550}
                 height={550}
